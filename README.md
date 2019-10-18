@@ -1,3 +1,3 @@
 # Sentiment Analyzer
 
-Ternary classification problem. Dataset was a set of Yelp! reviews in three classes: positive, negative and neutral. My team was ranked 13th in the leaderboard with an accuracy of 87.7%. We used a variety of Deep learning techniques such as CNNs and RNNs as well as simpler techniques such as Naive Bayes'. The best accuracy was produced by a CNN approach while Naive Bayes' finished a close second.
+Ternary classification problem. Dataset was a set of Yelp! reviews in three classes: positive, negative and neutral. My team was ranked 13th in the leaderboard with an accuracy of 87.7%. We used a variety of Deep learning techniques such as RNNs and LSTMs as well as simpler techniques such as Naive Bayes'. The best accuracy was produced by an RNN approach while Naive Bayes' finished a close second
